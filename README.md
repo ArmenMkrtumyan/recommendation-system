@@ -1,4 +1,8 @@
-# Book Recommendation System
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/128MHrlrHNwwU0/giphy.gif" width="200"/>
+</div>
+
+<h1 align="center">Book Recommendation System</h1>
 
 A book recommendation system that suggests books to users based on their age, gender, geographical location, reading history, and other relevant factors. This repository provides a book recommendation system implemented using machine learning techniques.
 
