@@ -1,6 +1,6 @@
 # Book Recommendation System
 
-A book recommendation system is a software application that suggests books to users based on their age, gender, geographical location, reading history, and other relevant factors. This repository provides a book recommendation system implemented using machine learning techniques.
+A book recommendation system that suggests books to users based on their age, gender, geographical location, reading history, and other relevant factors. This repository provides a book recommendation system implemented using machine learning techniques.
 
 ## Features
 
@@ -17,7 +17,7 @@ Scikit-learn
 
 ## Acknowledgments
 
-This book recommendation system could not be made without the help of Mariam Poghosyan, a good friend of mine who helped me to collect the data. 
+This book recommendation system could have not been made without the help of Mariam Poghosyan, a good friend who helped me collect the data. 
 
 ## Contact
 For any questions or inquiries, please contact - armen.v.mkyan@gmail.com
