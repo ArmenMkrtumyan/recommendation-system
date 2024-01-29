@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/128MHrlrHNwwU0/giphy.gif)" width="600"/>
+  <img src="[https://media.giphy.com/media/128MHrlrHNwwU0/giphy.gif](http://foreveronline-13.tumblr.com/post/45296175502/tumblr-on-we-heart-it))" width="600"/>
 </div>
 
 <h1 align="center">Book Recommendation System</h1>
